@@ -16,7 +16,9 @@ I have not any skills
 ## Education:
 Medical colleage
 ***
-
+## Languages
+* Russian native
+* English A1
 
 
 
