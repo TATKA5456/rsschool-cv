@@ -13,6 +13,9 @@ I'm work at hospital as a nurse. I"m a mother. I want to be a programmer
 ## Skills:
 I have not any skills
 ***
+## Education:
+Medical colleage
+***
 
 
 
