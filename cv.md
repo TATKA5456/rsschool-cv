@@ -1,7 +1,8 @@
 # NATALYA KATOK
 ***
 ![Logo]
-
+(https://github.com/TATKA5456/rsschool-cv/blob/gh-pages/IMG_7844.JPG)
+***
 ## Contacts:
 * Phone:
   + +375291770621
